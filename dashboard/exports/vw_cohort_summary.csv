@@ -1,0 +1,4 @@
+cohort_name,semester_number,student_count,mean_cgpa,median_cgpa,minimum_cgpa,maximum_cgpa,cgpa_stddev,pct_at_least_8,pct_at_least_9
+second_year,3,2704,7.38,7.55,0.00,10.00,1.23,33.10,6.43
+third_year,5,2626,7.31,7.42,3.14,9.94,1.19,31.72,6.21
+fourth_year,7,2399,7.24,7.26,3.55,9.96,1.08,26.89,4.71

@@ -1,0 +1,18 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Private source data and identifier mappings
+data/raw/
+private/
+*.xlsx
+*.xls
+*.xlsm
+
+# Local secrets and generated outputs
+.env
+.env.*
+outputs/
+.DS_Store

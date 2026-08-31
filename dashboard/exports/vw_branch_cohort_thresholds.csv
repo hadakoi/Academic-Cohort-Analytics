@@ -1,0 +1,70 @@
+branch_name,cohort_name,student_count,mean_cgpa,median_cgpa,count_cgpa_at_least_6,pct_cgpa_at_least_6,count_cgpa_at_least_7,pct_cgpa_at_least_7,count_cgpa_at_least_8,pct_cgpa_at_least_8,count_cgpa_at_least_9,pct_cgpa_at_least_9
+Bachelor of Technology (B.Tech.) in Aeronautical Engineering,fourth_year,62,7.34,7.50,52,83.87,37,59.68,18,29.03,4,6.45
+Bachelor of Technology (B.Tech.) in Automobile Engineering,fourth_year,29,6.59,6.33,22,75.86,10,34.48,2,6.90,0,0.00
+Bachelor of Technology (B.Tech.) in Bio-Medical Engineering,fourth_year,42,7.07,6.98,37,88.10,21,50.00,8,19.05,1,2.38
+Bachelor of Technology (B.Tech.) in Biotechnology,fourth_year,69,7.40,7.36,64,92.75,45,65.22,21,30.43,1,1.45
+Bachelor of Technology (B.Tech.) in Chemical Engineering,fourth_year,34,6.88,6.72,27,79.41,13,38.24,6,17.65,2,5.88
+Bachelor of Technology (B.Tech.) in Civil Engineering,fourth_year,39,6.85,6.63,33,84.62,15,38.46,6,15.38,1,2.56
+Bachelor of Technology (B.Tech.) in Computer Science & Financial Technology,fourth_year,72,7.92,8.05,70,97.22,60,83.33,37,51.39,9,12.50
+Bachelor of Technology (B.Tech.) in Computer Science and Engineering,fourth_year,260,7.41,7.49,218,83.85,160,61.54,96,36.92,28,10.77
+Bachelor of Technology (B.Tech.) in Cyber Physical Systems,fourth_year,61,7.03,7.02,53,86.89,31,50.82,9,14.75,2,3.28
+Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering,fourth_year,158,6.68,6.72,114,72.15,59,37.34,12,7.59,1,0.63
+Bachelor of Technology (B.Tech.) in Electronics Engineering (VLSI Design and Technology),fourth_year,69,7.02,6.85,61,88.41,33,47.83,8,11.59,0,0.00
+Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering,fourth_year,231,7.25,7.37,204,88.31,145,62.77,52,22.51,9,3.90
+Bachelor of Technology (B.Tech.) in Electronics and Instrumentation Engineering,fourth_year,77,6.57,6.59,59,76.62,24,31.17,1,1.30,0,0.00
+Bachelor of Technology (B.Tech.) in Industrial Engineering,fourth_year,8,7.22,6.96,7,87.50,4,50.00,2,25.00,0,0.00
+Bachelor of Technology (B.Tech.) in Mathematics and Computing,fourth_year,67,7.48,7.58,65,97.01,46,68.66,17,25.37,1,1.49
+Bachelor of Technology (B.Tech.) in Mechanical Engineering,fourth_year,168,6.86,6.79,125,74.40,73,43.45,29,17.26,6,3.57
+Bachelor of Technology (B.Tech.) in Mechatronics,fourth_year,137,6.98,6.93,114,83.21,65,47.45,21,15.33,2,1.46
+Computer Science and Engineering ( Artificial Intelligence & Machine Learning ),fourth_year,172,7.46,7.54,147,85.47,119,69.19,68,39.53,13,7.56
+Computer and Communication Engineering,fourth_year,250,7.44,7.64,227,90.80,172,68.80,83,33.20,12,4.80
+Data Science & Engineering,fourth_year,163,7.57,7.72,151,92.64,118,72.39,66,40.49,5,3.07
+Information Technology,fourth_year,231,7.44,7.55,203,87.88,153,66.23,83,35.93,16,6.93
+B.Tech Civil Engineering (Dual Degree Program with Macquarie University),second_year,5,6.56,6.81,3,60.00,2,40.00,0,0.00,0,0.00
+B.Tech Electrical & Electronics Engineering (Dual Degree Program with Macquarie University),second_year,8,5.67,5.91,4,50.00,1,12.50,0,0.00,0,0.00
+Bachelor of Technology (B.Tech.) in Aeronautical Engineering,second_year,72,7.53,7.58,65,90.28,50,69.44,29,40.28,3,4.17
+Bachelor of Technology (B.Tech.) in Automobile Engineering,second_year,25,6.33,6.12,15,60.00,10,40.00,3,12.00,0,0.00
+Bachelor of Technology (B.Tech.) in Bio-Medical Engineering,second_year,38,7.02,7.00,29,76.32,19,50.00,8,21.05,3,7.89
+Bachelor of Technology (B.Tech.) in Biotechnology,second_year,66,7.61,7.87,59,89.39,50,75.76,30,45.45,6,9.09
+Bachelor of Technology (B.Tech.) in Chemical Engineering,second_year,56,7.02,7.13,47,83.93,33,58.93,10,17.86,1,1.79
+Bachelor of Technology (B.Tech.) in Civil Engineering,second_year,23,5.92,5.67,11,47.83,5,21.74,2,8.70,0,0.00
+Bachelor of Technology (B.Tech.) in Computer Science & Financial Technology,second_year,75,6.94,7.21,58,77.33,43,57.33,11,14.67,2,2.67
+Bachelor of Technology (B.Tech.) in Computer Science and Engineering,second_year,1169,7.60,7.74,1071,91.62,867,74.17,471,40.29,88,7.53
+Bachelor of Technology (B.Tech.) in Cyber Physical Systems,second_year,141,6.99,7.12,119,84.40,76,53.90,20,14.18,3,2.13
+Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering,second_year,168,7.09,7.32,146,86.90,97,57.74,30,17.86,3,1.79
+Bachelor of Technology (B.Tech.) in Electronics Engineering (VLSI Design and Technology),second_year,73,7.69,7.81,70,95.89,57,78.08,31,42.47,3,4.11
+Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering,second_year,239,8.07,8.29,228,95.40,209,87.45,147,61.51,44,18.41
+Bachelor of Technology (B.Tech.) in Electronics and Instrumentation Engineering,second_year,49,6.89,6.81,39,79.59,23,46.94,7,14.29,1,2.04
+Bachelor of Technology (B.Tech.) in Industrial Engineering,second_year,31,5.87,6.02,18,58.06,3,9.68,0,0.00,0,0.00
+Bachelor of Technology (B.Tech.) in Mathematics and Computing,second_year,72,7.30,7.31,64,88.89,44,61.11,21,29.17,3,4.17
+Bachelor of Technology (B.Tech.) in Mechanical Engineering,second_year,219,7.16,7.26,190,86.76,130,59.36,52,23.74,10,4.57
+Bachelor of Technology (B.Tech.) in Mechatronics,second_year,145,7.03,7.10,127,87.59,80,55.17,21,14.48,4,2.76
+Computer Science and Engineering ( Artificial Intelligence & Machine Learning ),second_year,1,5.40,5.40,0,0.00,0,0.00,0,0.00,0,0.00
+Computer and Communication Engineering,second_year,3,4.42,4.17,0,0.00,0,0.00,0,0.00,0,0.00
+Data Science & Engineering,second_year,3,3.81,3.30,0,0.00,0,0.00,0,0.00,0,0.00
+Information Technology,second_year,1,3.98,3.98,0,0.00,0,0.00,0,0.00,0,0.00
+Mechanical(Dual Degree Program with Deakin University),second_year,9,5.91,5.93,4,44.44,1,11.11,0,0.00,0,0.00
+Mechatronics (Dual Degree Program with Deakin University),second_year,13,6.26,6.21,8,61.54,4,30.77,2,15.38,0,0.00
+Bachelor of Technology (B.Tech.) in Aeronautical Engineering,third_year,72,7.46,7.54,63,87.50,45,62.50,25,34.72,8,11.11
+Bachelor of Technology (B.Tech.) in Automobile Engineering,third_year,31,6.24,6.24,17,54.84,7,22.58,4,12.90,0,0.00
+Bachelor of Technology (B.Tech.) in Bio-Medical Engineering,third_year,46,6.88,6.92,34,73.91,22,47.83,9,19.57,2,4.35
+Bachelor of Technology (B.Tech.) in Biotechnology,third_year,78,7.54,7.47,74,94.87,56,71.79,25,32.05,7,8.97
+Bachelor of Technology (B.Tech.) in Chemical Engineering,third_year,45,6.82,6.88,35,77.78,20,44.44,6,13.33,1,2.22
+Bachelor of Technology (B.Tech.) in Civil Engineering,third_year,40,6.36,6.24,24,60.00,12,30.00,4,10.00,1,2.50
+Bachelor of Technology (B.Tech.) in Computer Science & Financial Technology,third_year,73,7.59,7.98,62,84.93,52,71.23,35,47.95,5,6.85
+Bachelor of Technology (B.Tech.) in Computer Science and Engineering,third_year,295,7.89,8.20,265,89.83,238,80.68,163,55.25,44,14.92
+Bachelor of Technology (B.Tech.) in Cyber Physical Systems,third_year,112,6.62,6.71,84,75.00,41,36.61,10,8.93,1,0.89
+Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering,third_year,142,6.87,6.95,112,78.87,68,47.89,18,12.68,1,0.70
+Bachelor of Technology (B.Tech.) in Electronics Engineering (VLSI Design and Technology),third_year,71,7.24,7.27,62,87.32,46,64.79,15,21.13,2,2.82
+Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering,third_year,227,7.65,7.76,206,90.75,172,75.77,98,43.17,25,11.01
+Bachelor of Technology (B.Tech.) in Electronics and Instrumentation Engineering,third_year,55,6.56,6.60,38,69.09,20,36.36,7,12.73,0,0.00
+Bachelor of Technology (B.Tech.) in Industrial Engineering,third_year,27,6.55,6.18,19,70.37,9,33.33,3,11.11,1,3.70
+Bachelor of Technology (B.Tech.) in Mathematics and Computing,third_year,73,7.45,7.62,68,93.15,51,69.86,26,35.62,3,4.11
+Bachelor of Technology (B.Tech.) in Mechanical Engineering,third_year,216,6.88,6.82,168,77.78,99,45.83,37,17.13,11,5.09
+Bachelor of Technology (B.Tech.) in Mechatronics,third_year,136,7.02,7.08,115,84.56,73,53.68,18,13.24,2,1.47
+Computer Science and Engineering ( Artificial Intelligence & Machine Learning ),third_year,185,7.77,8.04,166,89.73,146,78.92,93,50.27,22,11.89
+Computer and Communication Engineering,third_year,249,7.38,7.53,221,88.76,167,67.07,86,34.54,10,4.02
+Data Science & Engineering,third_year,175,7.26,7.41,151,86.29,113,64.57,49,28.00,5,2.86
+Information Technology,third_year,256,7.56,7.76,229,89.45,187,73.05,99,38.67,12,4.69
+Mechanical(Dual Degree Program with Deakin University),third_year,4,6.34,6.65,3,75.00,0,0.00,0,0.00,0,0.00
+Mechatronics (Dual Degree Program with Deakin University),third_year,18,6.90,6.69,16,88.89,6,33.33,3,16.67,0,0.00

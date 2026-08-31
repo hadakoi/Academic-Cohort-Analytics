@@ -1,0 +1,26 @@
+branch_name,student_count,mean_cgpa,median_cgpa,minimum_cgpa,maximum_cgpa,cgpa_stddev,pct_at_least_8,pct_at_least_9,pct_below_6
+B.Tech Civil Engineering (Dual Degree Program with Macquarie University),5,6.56,6.81,4.43,7.93,1.43,0.00,0.00,40.00
+B.Tech Electrical & Electronics Engineering (Dual Degree Program with Macquarie University),8,5.67,5.91,3.45,7.76,1.42,0.00,0.00,50.00
+Bachelor of Technology (B.Tech.) in Aeronautical Engineering,206,7.45,7.55,4.24,9.77,1.15,34.95,7.28,12.62
+Bachelor of Technology (B.Tech.) in Automobile Engineering,85,6.38,6.32,3.79,8.95,1.17,10.59,0.00,36.47
+Bachelor of Technology (B.Tech.) in Bio-Medical Engineering,126,6.98,6.94,4.60,9.69,1.11,19.84,4.76,20.63
+Bachelor of Technology (B.Tech.) in Biotechnology,213,7.52,7.56,2.53,9.81,1.11,35.68,6.57,7.51
+Bachelor of Technology (B.Tech.) in Chemical Engineering,135,6.92,6.98,3.55,9.51,1.16,16.30,2.96,19.26
+Bachelor of Technology (B.Tech.) in Civil Engineering,102,6.45,6.38,3.62,9.41,1.25,11.76,1.96,33.33
+Bachelor of Technology (B.Tech.) in Computer Science & Financial Technology,220,7.48,7.71,2.22,9.60,1.23,37.73,7.27,13.64
+Bachelor of Technology (B.Tech.) in Computer Science and Engineering,1724,7.62,7.79,0.00,9.96,1.18,42.34,9.28,9.86
+Bachelor of Technology (B.Tech.) in Cyber Physical Systems,314,6.87,6.95,3.12,9.52,1.08,12.42,1.91,18.47
+Bachelor of Technology (B.Tech.) in Electrical and Electronics Engineering,468,6.89,6.93,3.38,9.93,1.05,12.82,1.07,20.51
+Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering,697,7.66,7.81,3.64,10.00,1.14,42.61,11.19,8.46
+Bachelor of Technology (B.Tech.) in Electronics and Instrumentation Engineering,181,6.65,6.64,3.76,9.33,1.01,8.29,0.55,24.86
+Bachelor of Technology (B.Tech.) in Electronics Engineering (VLSI Design and Technology),213,7.32,7.32,5.03,9.45,0.91,25.35,2.35,9.39
+Bachelor of Technology (B.Tech.) in Industrial Engineering,66,6.31,6.26,3.36,9.05,1.2,7.58,1.52,33.33
+Bachelor of Technology (B.Tech.) in Mathematics and Computing,212,7.41,7.47,4.46,9.48,1.0,30.19,3.30,7.08
+Bachelor of Technology (B.Tech.) in Mechanical Engineering,603,6.98,7.00,3.19,9.67,1.15,19.57,4.48,19.90
+Bachelor of Technology (B.Tech.) in Mechatronics,418,7.01,7.06,3.48,9.60,1.01,14.35,1.91,14.83
+Computer and Communication Engineering,502,7.39,7.56,3.55,9.68,1.09,33.67,4.38,10.76
+Computer Science and Engineering ( Artificial Intelligence & Machine Learning ),358,7.61,7.80,4.52,9.72,1.19,44.97,9.78,12.57
+Data Science & Engineering,341,7.38,7.52,3.14,9.60,1.09,33.72,2.93,11.44
+Information Technology,488,7.49,7.67,3.84,9.52,1.11,37.30,5.74,11.48
+Mechanical(Dual Degree Program with Deakin University),13,6.04,6.10,4.33,7.43,0.87,0.00,0.00,46.15
+Mechatronics (Dual Degree Program with Deakin University),31,6.63,6.60,3.50,8.80,1.1,16.13,0.00,22.58
